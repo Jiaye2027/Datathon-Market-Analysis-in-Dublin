@@ -10,7 +10,8 @@ a. Distribution of min and max price they're searching b. How early do they book
 ### 2. Understanding the Demand of the Guests
 a. What types of guests tend to inquire/be accepted/successfully book/sucessfully check in? b. Why did some guests search but didn't book?
 
-### 3. Understanding the influence of host and guest on Whether the booking is successful.
+### 3. Understanding Important Features 
+Understand the influence of the properties of the hosts and guests on Whether the booking is successful.
 
 ## Methodology
 * Data Visualization

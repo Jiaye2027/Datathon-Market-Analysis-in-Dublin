@@ -4,18 +4,13 @@
 This project aims to analyze the Airbnb market in Dublin, focusing on understanding guest search behavior, host response patterns, and demand-supply gaps. The insights derived from this analysis will help the new city manager optimize booking strategies and improve market efficiency.
 
 ## Objectives
+### 1. Understanding the Guest's Portrait
+a. Distribution of min and max price they're searching b. How early do they book the Aribnb check in date (searching) - searching date c. Nights staying d. origin country e. room type f. neigborhood
 
-### Understanding the Guest's Portrait
-* Distribution of minimum and maximum price preferences
-* Lead time: How early guests book before check-in
-* Length of stay (number of nights)
-* Guests' origin country
-* Preferred room types
-* Popular neighborhoods
+### 2. Understanding the Demand of the Guests
+a. What types of guests tend to inquire/be accepted/successfully book/sucessfully check in? b. Why did some guests search but didn't book?
 
-### Understanding Guest Demand
-* Characteristics of guests who inquire, get accepted, successfully book, and check in
-* Reasons why some guests search but do not book
+### 3. Understanding the influence of host and guest on Whether the booking is successful.
 
 ## Methodology
 * Data Visualization

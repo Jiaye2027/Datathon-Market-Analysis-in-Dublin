@@ -19,8 +19,8 @@ Understand the influence of the properties of the hosts and guests on Whether th
 * GBDT models ensemble, using Bayesian Optimization for hyperparameters tuning.
 
 ## Team Members
-| Name               | Role                    |
-| -------------------| ------------------------|
-| **Songhan Hu**     | Data Preprocessing      |
-| **Jiaye Liu**      | Building Ensemble Models|
-| **Luoning Zhang**  | Visualization           |
+| Name               | Email            | Role                    |
+| -------------------| ---------------- | ------------------------|
+| **Songhan Hu**     | songhanh@uci.edu  | Data Preprocessing      |
+| **Jiaye Liu**      | jiayel7@uci.edu  | Building Ensemble Models|
+| **Luoning Zhang**  | luoninz1@uci.edu  | Visualization           |

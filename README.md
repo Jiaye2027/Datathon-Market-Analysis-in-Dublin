@@ -1,7 +1,7 @@
 # Datathon-Market-Analysis-in-Dublin
 
 ## Introduction
-This project aims to analyze the Airbnb market in Dublin, focusing on understanding guest search behavior, host response patterns, and demand-supply gaps. The insights derived from this analysis will help the new city manager optimize booking strategies and improve market efficiency.
+This project aims to analyze the Airbnb market in Dublin, focusing on understanding guest search behavior, host response patterns, and demand-supply gaps. The insights derived from this analysis will help the new city manager optimize booking strategies and improve market efficiency. Finally, we built an ensemble model to predict whether a search can have a successful booking.
 
 ## Objectives
 ### 1. Understanding the Guest's Portrait
